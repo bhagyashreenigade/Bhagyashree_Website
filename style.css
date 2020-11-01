@@ -667,10 +667,11 @@ xclip
 
 
 .right-box-pro{
-	position: relative;
+    position: relative;
 }
 .right-box-pro img{
     z-index: 2;
+    height: 500px;
 }
 .right-box-pro::before {
     
